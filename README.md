@@ -365,61 +365,7 @@
   </ul>
 </section>
 
-<section>
-  <h2>📚 Key Learning Outcomes</h2>
-  
-  <p><strong>This project has strengthened my readiness for:</strong></p>
-  <ul>
-    <li><strong>Junior System Administrator</strong> roles</li>
-    <li><strong>IAM Analyst</strong> positions</li>
-    <li><strong>IT Support Engineer</strong> (Tier 2/3)</li>
-    <li><strong>Identity Engineer</strong> roles</li>
-  </ul>
-  
-  <p><strong>By demonstrating:</strong></p>
-  <ul>
-    <li>✅ Infrastructure management (servers, networking, virtualization)</li>
-    <li>✅ Identity & Access Management expertise</li>
-    <li>✅ Hybrid cloud architecture implementation</li>
-    <li>✅ Security policy enforcement</li>
-    <li>✅ Troubleshooting complex IT issues</li>
-    <li>✅ Professional documentation skills</li>
-  </ul>
-</section>
 
-<section>
-  <h2>🚀 Future Enhancements</h2>
-  
-  <h3>Phase 2 (Planned)</h3>
-  <ul>
-    <li>Multi-Factor Authentication (MFA) enforcement</li>
-    <li>Self-Service Password Reset (SSPR) with password writeback</li>
-    <li>Conditional Access Policies</li>
-    <li>Privileged Identity Management (PIM)</li>
-    <li>Azure AD Application Proxy</li>
-  </ul>
-  
-  <h3>Phase 3 (Advanced)</h3>
-  <ul>
-    <li>Deploy secondary Domain Controller for redundancy</li>
-    <li>Implement DFS (Distributed File System)</li>
-    <li>Setup WSUS (Windows Server Update Services)</li>
-    <li>Configure Certificate Services (PKI)</li>
-    <li>Disaster recovery and backup strategies</li>
-  </ul>
-</section>
-
-<footer>
-  <p>
-    <strong>Built as part of hands-on learning for Junior System Administrator 
-    and IAM Analyst roles.</strong>
-  </p>
-  <p>
-    This lab demonstrates the integration of traditional on-premises Active Directory 
-    with modern cloud identity services—a critical skillset for today's hybrid enterprise 
-    environments.
-  </p>
-</footer>
 
 </body>
 </html>
